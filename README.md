@@ -44,7 +44,8 @@
 - https://www.youtube.com/watch?v=0k79LqIaHyQ
 
 
-# Authors :
+# Authors and contributors:
 - https://github.com/DineshbMahale
+- https://github.com/NupurChavan
 
 
